@@ -7,4 +7,4 @@ This application designed with streamlit library will help in visualizing NLP ta
 The features can be seen in screenshot and you can add up more features relating to natural language proecessing.
 
 Firstly, install streamlit library in windows by "pip install streamlit".
-Run the application by typing streamlit run app.py in CMD.
+Run the application by typing "streamlit run app.py" in CMD.
