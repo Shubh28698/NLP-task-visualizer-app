@@ -18,3 +18,9 @@ thinc==7.4.1
 tqdm==4.47.0
 urllib3==1.25.9
 wasabi==0.7.0
+streamlit
+nltk
+os 
+re 
+translate
+pandas
