@@ -24,3 +24,4 @@ os
 re 
 translate
 pandas
+python>=3.6
