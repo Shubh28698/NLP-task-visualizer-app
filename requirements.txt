@@ -4,7 +4,6 @@ pandas
 nltk
 translate
 wordnet
-pros_cons
 reuters
 hmm_treebank_pos_tagger
 maxent_treebank_pos_tagger
