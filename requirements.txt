@@ -3,9 +3,7 @@ numpy
 pandas
 nltk
 translate
-wordnet
-reuters
-porter_test
+
 
 
 
