@@ -18,4 +18,4 @@ porter_test
 vader_lexicon
 treebank
 dependency_treebank
-© 2020 GitHub, Inc.
+
