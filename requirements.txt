@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-nltk
-translate
-
-
-
-
