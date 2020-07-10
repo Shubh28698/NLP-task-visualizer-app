@@ -4,5 +4,4 @@ pandas
 nltk
 translate
 wordnet
-
 reuters
